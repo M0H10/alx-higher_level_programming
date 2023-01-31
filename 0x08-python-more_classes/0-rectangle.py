@@ -1,4 +1,10 @@
 #!/usr/bin/python3
+'''
+Module contains Rectangle Class
+'''
+
+
 class Rectangle:
-    """ Empty class """
+    '''An empty rectangle class
+    '''
     pass
